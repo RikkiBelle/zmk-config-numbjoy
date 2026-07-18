@@ -1,0 +1,10 @@
+# This file was generated from a template. Edit it to match your keyboard.
+# See https://docs.zephyrproject.org/4.1.0/hardware/porting/board_porting.html#write-kconfig-files
+# for more information.
+
+if SHIELD_NUMBJOY
+
+config ZMK_KEYBOARD_NAME
+    default "NumbJoy"
+
+endif

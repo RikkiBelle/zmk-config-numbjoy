@@ -1,0 +1,9 @@
+file_format: "1"
+id: numbjoy
+name: NumbJoy
+type: shield
+url: https://github.com/susmariosep/zmk-config-numbjoy
+requires:
+  - pro_micro
+features:
+  - keys
